@@ -1,4 +1,4 @@
-# Lip-Syncing with AI using the wav2lip Model
+# Lip-Syncing with AI
 
 ## Project in "ai_lip.ipynb"
 
