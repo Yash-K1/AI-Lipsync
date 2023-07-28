@@ -49,7 +49,7 @@ Finally, I ran the inference script (inference.py) provided in the Wav2Lip repos
 
 ## To run the code and perform lip-syncing, follow these steps:
 
-### 1.) Open the lipsync.ipynb file in Google Colab using the "Open in Colab" button.
+### 1.) Open the ai_lip.ipynb file in Google Colab using the "Open in Colab" button.
 
 
 ![image](https://github.com/Yash-K1/AI-Lipsync/assets/114215353/0bd2d688-23c4-4351-b527-333a514b8466)
