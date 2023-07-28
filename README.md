@@ -8,11 +8,11 @@ The objective is to synchronize the lip movements of characters in a given video
 
 ## Code Overview
 
-The code provided showcases the implementation steps required to perform lip-syncing using the wav2lip model. Let's go through the code step by step:
+The code provided showcases the implementation steps required to perform lip-syncing using the wav2lip model. Open the ai_lip.ipynb file in collab and let's go through the code step by step:
 
 ### - Setting Up the Environment :
 
-To begin, it is ensured that all the necessary dependencies are installed and any missing packages are installed using pip.
+To begin, it is ensured that all the necessary dependencies are installed.
 
 ### - Cloning the Repository :
 
