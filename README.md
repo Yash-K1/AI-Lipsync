@@ -12,6 +12,8 @@ The code provided showcases the implementation steps required to perform lip-syn
 
 ### - Setting Up the Environment :
 
+Make sure you are using the same google account in Google Colab which you will be using to upload your desired image/video and audio files. Changing the hardware accelerator to GPU before
+
 
 ### - Cloning the Repository :
 
