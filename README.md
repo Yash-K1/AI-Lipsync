@@ -12,7 +12,6 @@ The code provided showcases the implementation steps required to perform lip-syn
 
 ### - Setting Up the Environment :
 
-To begin, it is ensured that all the necessary dependencies are installed.
 
 ### - Cloning the Repository :
 
