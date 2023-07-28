@@ -16,7 +16,7 @@ To begin, it is ensured that all the necessary dependencies are installed.
 
 ### - Cloning the Repository :
 
-Next, the Wav2Lip repository is cloned from the provided GitHub URL. This repository contains the implementation of the wav2lip model, which is the backbone of our lip-syncing application. We also install the required python packages to run the model.
+Next, this repository is cloned. My repository contains the implementation of the wav2lip model, which is the backbone of our lip-syncing application. We also install the required python packages to run the model contained in the "requirements.txt" file.
 
 ### - Mounting Google Drive :
 
