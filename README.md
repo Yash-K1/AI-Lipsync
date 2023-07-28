@@ -16,15 +16,11 @@ To begin, it is ensured that all the necessary dependencies are installed.
 
 ### - Cloning the Repository :
 
-Next, the Wav2Lip repository is cloned from the provided GitHub URL. This repository contains the implementation of the wav2lip model, which is the backbone of our lip-syncing solution.
+Next, the Wav2Lip repository is cloned from the provided GitHub URL. This repository contains the implementation of the wav2lip model, which is the backbone of our lip-syncing application. We also install the required python packages to run the model.
 
 ### - Mounting Google Drive :
 
 I mounted Google Drive to access the required video and audio files for lip-syncing. This step allowed me to seamlessly access the files needed for the project.
-
-### - Downloading Pre-trained Models :
-
-I downloaded a pre-trained model for face detection from a provided link. This model plays a crucial role in accurately detecting and tracking faces in the video.
 
 ### - Performing Lip-Syncing :
 
