@@ -1,6 +1,6 @@
 # Lip-Syncing with AI using the wav2lip Model
 
-### Project in "ai_lip.ipynb"
+## Project in "ai_lip.ipynb"
 
 --------------------------------
 
