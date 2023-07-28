@@ -38,13 +38,13 @@ Finally, I ran the inference script (inference.py) provided in the Wav2Lip repos
 <br>
 <br>
 
-> # Detailed explanation of the code is provided in the Google Colab Notebook.
-
-<br>
 
 --------------------
 
 # Running the Code
+
+> # Detailed explanation of the code is provided in the Google Colab Notebook.
+<br>
 --------------------------------
 
 ## To run the code and perform lip-syncing, follow these steps:
