@@ -43,7 +43,7 @@ Finally, I ran the inference script (inference.py) provided in the Wav2Lip repos
 
 # Running the Code
 
-> # Detailed explanation of the code is provided in the Google Colab Notebook.
+> # Detailed explanation of the code is provided in the "ai_lip.ipynb" Google Colab Notebook.
 <br>
 --------------------------------
 
