@@ -52,8 +52,6 @@ Finally, I ran the inference script (inference.py) provided in the Wav2Lip repos
 ### 1.) Open the ai_lip.ipynb file in Google Colab using the "Open in Colab" button.
 
 
-![image](https://github.com/Yash-K1/AI-Lipsync/assets/114215353/0bd2d688-23c4-4351-b527-333a514b8466)
-
 
 ### 2.) Start executing the cells. The code cells from Prerequisites up to connecting this GitHub repository to Colab Notebook can be directly without any additional effort. I have managed all the dependencies by choosing all the suitable package versions that were inter-compatible.
 
