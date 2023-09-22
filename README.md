@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The objective is to synchronize the lip movements of characters in a given video file with the corresponding audio file.
+The objective is to synchronize the lip movements of a face in a given video or image file with the any audio file.
 
 
 ## Code Overview
