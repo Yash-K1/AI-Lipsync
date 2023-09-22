@@ -1,6 +1,6 @@
 # Lip-Syncing with AI
 
-## Project in "ai_lip.ipynb"
+## Project in "main.ipynb"
 
 --------------------------------
 
