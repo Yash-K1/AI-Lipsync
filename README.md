@@ -59,7 +59,7 @@ Finally, I ran the inference script (inference.py) provided in the Wav2Lip repos
 ### 3.) Create a new folder on your Google Drive. Upload the desired image/video and audio files in that folder.
 
 
-### 4.) Run the model using the names of video and audio files and download the resultant video from the file manager of Wav2Lip on the left side of the colab notebook.
+### 4.) Run the model using the names of video and audio files and download the resultant video from the files menu on the left by clicking on the folder icon -> AI-Lipsync -> results -> "result_voice.mp4".
 
 
 
